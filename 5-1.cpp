@@ -1,6 +1,5 @@
 #include <iostream>
 #define SIZE 10001
-
 using namespace std;
 
 int a[SIZE];
